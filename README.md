@@ -21,6 +21,6 @@ Book covers were taken form [KAGGLE] (https://www.kaggle.com/lukaanicin/book-cov
 - Science-Fiction-Fantasy-Horror(all 4 are considered as a single genre in the project)
 
 ## RESULT
-  Our model was able to predict correctly with accuracy of 94.28%.
+  The model was able to predict correctly with accuracy of 94.28%.
   
   
