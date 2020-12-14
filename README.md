@@ -13,7 +13,7 @@ The total number of genres for the books to be classified into is 5.
 - Matplotlib
 
 ## DATASET
-Book covers were taken form [KAGGLE](https://www.kaggle.com/lukaanicin/book-covers-dataset?select=book-covers)but to since my study was maily focused on FastAi and deep learning i took these 5 genres (to keep this project short).
+Book covers were taken form [KAGGLE] (https://www.kaggle.com/lukaanicin/book-covers-dataset?select=book-covers)but to since my study was maily focused on FastAi and deep learning i took these 5 genres (to keep this project short).
 - Romance
 - Childrens-Books
 - Sport
@@ -21,5 +21,6 @@ Book covers were taken form [KAGGLE](https://www.kaggle.com/lukaanicin/book-cove
 - Science-Fiction-Fantasy-Horror(all 4 are considered as a single genre in the project)
 
 ## RESULT
+  Our model was able to predict correctly with accuracy of 94.28%.
   
   
